@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function Test() {
     const [data, setData] = useState([
-        { name: "ABC", age: 10 },
+        { name: "AB C", age: 10 },
         { name: "xyz", age: 14 },
     ]);
     const [name, setName] = useState('');

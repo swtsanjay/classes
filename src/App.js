@@ -7,7 +7,7 @@ function createAlert() {
 
 function App() {
 	return (
-		<div className="App" style={{ color: 'red' }}>
+		<div className="App" style={{ color: 'blue' }}>
 			<Test />
 		</div>
 	);
